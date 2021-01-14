@@ -1,1 +1,1 @@
-# Plinko-with-Scores
+# Plinko with Scores
